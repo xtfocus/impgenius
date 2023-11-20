@@ -1,0 +1,11 @@
+importer_normalized_data:
+  datatype: csv
+  filepath: datasets/importer_normalized_data.csv
+
+main:
+  datatype: gzip
+  filepath: datasets/main.csv
+
+ports:
+  datatype: csv
+  filepath: datasets/ports.csv
