@@ -45,6 +45,8 @@ class DataLoader:
                         data = pd.read_csv(full_path)
                     elif data_type == "gzip":
                         data = pd.read_csv(full_path, compression='gzip')
+                    elif data_type == "parquet":
+                        data = pd.read_parquet(full_path)
                     else:
                         print(f"Error: Unsupported datatype '{data_type}' for dataset '{dataset_name}'.")
                         return None

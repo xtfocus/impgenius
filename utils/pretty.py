@@ -14,7 +14,9 @@ def pprint(content):
     display(Markdown(content)) 
 
 
-def plot_missing_values(df: pd.DataFrame, as_percentage: Optional[bool] = False) -> None:
+def plot_missing_values(df: pd.DataFrame,
+                        as_percentage: Optional[bool] = False,
+                        figsize=(10,6)) -> None:
     """
     Plot a horizontal stacked bar chart showing the number of missing values per column.
 
@@ -40,7 +42,7 @@ def plot_missing_values(df: pd.DataFrame, as_percentage: Optional[bool] = False)
         missing_values_percentage = missing_values
         non_missing_values_percentage = non_missing_values
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=figsize)
     
     # Plot non-missing values in black on the left
     ax.barh(missing_values.index, non_missing_values_percentage, color='black', label='Non-Missing')
