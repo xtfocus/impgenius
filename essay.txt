@@ -1,7 +1,8 @@
 
 1. Why are you interested in the job?
 
-I'm looking for a data science job. The job that you offer fits my background (foreign trade major in college + data science msc )
+I'm looking for a job in Data Science. The job you are offering fits my background (university degree in foreign trade + MSc in data science).
+
 
 2. What do you hope to get out of it?
 
@@ -14,20 +15,21 @@ I am not unique, and I don't know (yet) about people in the team. The team can t
 4. In the same document, give a short description of the three accomplishments
 (personal or professional) that you are most proud of.
 
-I successfully fought agains back pain with sciatica which hindered my movement and caused constant pain. I attribute that success to the pullup exercise.
+I have successfully battled back pain from sciatica, which limited my movement and caused constant pain. I attribute this success to the chin-up exercise.
 
-I can bench 100kg (one rep max). Pretty dangerous since I train at home with no spotter, in my tiny home gym (I live alone).
+I can bench 100kg (one rep max). Quite dangerous as I train at home without a spotter in my tiny home gym (I live alone).
 
-Finally I am very proud about losing 10 then gaining 20kg during and after the pandemic. A lot of involuntary eating was involved. The gained weight improves my appearance.
+Finally, I am very proud to have lost 10kg and then gained 20kg during and after the pandemic. There was a lot of involuntary eating involved. The weight I have gained has improved my appearance.
+
 
 5. Can you describe a project which you led (or were involved) and you had to work
 with different stakeholders and encountered a difficult situation that threatened
 delivery of expectations? What was the project, what was the difficult situation, why
 was it difficult, what did you do that made a difference?
 
-In my lates project, I worked in a team of 4. Other than the standar technical technical stuff, there's one time when I had to convince a company board member (a new guy, located in Europe) for openAI API budget. We all agreed that we needed the API to get synthetic datasets, since the data vendor failed to do their job.
+In my lates project, I worked in a team of 4. Apart from the standard technical tasks, there's one time when I had to convince a company board member (a new guy, located in Europe) for an openAI API budget. We (the team) all agreed that we needed the API to get synthetic datasets, since the data vendor failed to do their job.
 
-I had to be very responsive and assisted the guy with the confusing billing format of openAI, but it's not just that. I had to face some hot water from my local boss, who insisted on using the free alternatives and thought that I was trying to exploit the company. Though I had every reason to be offended, I kept it professional and explained to him that we cannot host some 7-B LLM model on my laptop, and that buying/hiring GPUs were not a good idea. Thinking about my teammates, whom I am still
+I had to be very responsive and assisted the guy with the confusing billing format of openAI, but it's not just that. I received some serious emails from my local boss, who insisted on using the free alternatives and thought that I was trying to exploit the company. Though I had every reason to be offended, I kept it professional and explained to him that we could host some 7-B LLM model on my poor laptop, and that buying/hiring GPUs were not a good idea. Thinking about my teammates, whom I am still
 very close with, helped me get through that unpleasant experience. We got the API and delivered the project in time, that was all that mattered.
 
 
@@ -41,7 +43,7 @@ I've never felt that way about any thing I do. Each day I stumble on new ways to
 all the information you need to deliver a good job? What was the task, what was the
 situation, how did you go about the challenges?
 
-All the time. The coding test for this job was an example. I asked for more information but was not given much to worked with. Still have to deliver. In case the result was not good, at least I got the codes that can be re-used for other stuff. That's the best I could do (within 3 days while working a full-time job).
+All the time. The coding test for this job was an example. I asked for more information but was not given much to worked with. Still had to deliver. In case the result was not good, at least I got the codes that can be re-used for other stuff. That's the best I could do (within 3 days while working a full-time job).
 
 8. Given the following corporate values: solicitude, excellence, respect, ingenuity with
 integrity, and teamwork choose one strength that you have and describe a critical
@@ -49,8 +51,8 @@ incident to show why this was your strength; also, choose one development
 opportunity for you and describe a critical incident that highlights why this is a
 development opportunity
 
-The question doesn't make sense to me. A corporate value and a personal strenght are different concepts.
-I value critical thinking and freedom of ideas, none of which is present in your bundle of fancy words. Doesn't mean I disrespect all of the corporate values. I just got super bored and exhausted thinking about it. I'm not a kid nor a young student. I do not reflect everyday on how I got to be the man I am today. Because there's no magical incident can facilitate that but daily practice. If you want to be excellence, practice. If you want to be more comfortable for people to be around,
-practice. If you want to be inventive, practice. Do it everyday.  You might never got there, but you will be a little better than who you are yesterday.
+The question doesn't make sense to me. A corporate value and a personal strength are different concepts.
+I value critical thinking and freedom of ideas, none of which is present in your bundle of fancy words. Doesn't mean I disrespect all of the corporate values.
+I do not reflect everyday on how I got to be the man I am today. Because there's no magical incident can facilitate that but daily practice. If you want to be excellence, practice. If you want to be more comfortable for people to be around,
+practice. If you want to be inventive, practice. Do it everyday.  You might never got there, but you will be a little better than who you were.
 Because the incident that you think is critical might never come.
-I seriously hope my answers don't come across as personal attacks (to whomever wrote/approved them). I'm just discussing ideas here.
