@@ -6,6 +6,13 @@
 
 Execution steps:
 
+0. Clone and navigate to `impgenius` dir
+
+    ```bash
+    git clone git@github.com:xtfocus/impgenius.git
+    cd impgenius
+    ```
+
 1. create and activate a virtual environment with python 3.9. Give it a nice name e.g. `genius`
 
 2. Install the environment into jupyter kernel
