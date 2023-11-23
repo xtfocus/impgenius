@@ -88,3 +88,23 @@ def plot_value_counts(value_counts, k=20, plot_title=""):
     ax.spines['left'].set_visible(False)
 
     plt.show()
+
+    
+def generate_sample_history(main, query=None):
+    """
+    Generate a sample transactional history of ONE random importer
+    Optional: provide a query to narrow down sampling pool
+    """
+    if query is None:
+        sample_importer = list(main['importer_deduped_name'].drop_duplicates().sample(1))[0]
+    else:
+        sample_importer = list(main.query(query)['importer_deduped_name'].drop_duplicates().sample(1))[0]
+    print(sample_importer)
+    sample_history = main[main["id"]==sample_importer]
+    return (
+        sample_history[['file_month', 'hs_codes', 'calculated_teu',
+                        'country_of_origin', 'port_of_unlading', 
+                        'importer_deduped_name', 'importer_rank', 'id']].sort_values(
+        ['file_month', 'hs_codes']
+        )
+        )
