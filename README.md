@@ -18,7 +18,7 @@ Execution steps:
     ```bash
     pip install -r requirements.txt
     ```
-4. Copy `main.csv`, `ports.csv`, `importer_normalized_data.csv` to `datasets` folder
+4. Create a new folder named `datasets`. Copy `main.csv`, `ports.csv`, `importer_normalized_data.csv` to this folder.
 
 5. Execute the **answer notebook**
 
