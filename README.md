@@ -2,7 +2,7 @@
 
 **Essay**: `essay.txt`
 
-**Answer notebook**: ``notebooks/Skills Test Data Scientist.ipynb`
+**Answer notebook**: `notebooks/Skills Test Data Scientist.ipynb`
 
 Execution steps:
 
