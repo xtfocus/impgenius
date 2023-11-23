@@ -1,1 +1,5 @@
 datasets/*
+notebooks/Attribute_calculation.ipynb
+notebooks/ML_experiments.ipynb
+notebooks/*.db
+notebooks/mlruns
