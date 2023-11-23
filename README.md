@@ -4,7 +4,7 @@
 
 **Answer notebook**: `notebooks/Skills Test Data Scientist.ipynb`
 
-Execution steps:
+The notebook cannot run by itself. If you want to execute the code yourself, please follow these steps for smooth sailing:
 
 0. Clone and navigate to `impgenius` dir
 
